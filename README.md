@@ -1,5 +1,4 @@
 # Mock_OpenBanking
-# Mock OpenBanking
 
 A Spring Boot application simulating an open banking credit evaluation API. It processes client credit requests based on FIN, age, salary, requested amount, and credit duration.
 
